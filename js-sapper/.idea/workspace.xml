@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a85949de-89c0-46d7-ad32-bd700bc646eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u6iZZvZ0ClTqZPlFMsrBgVzGfp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-sapper/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-saper/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85949de-89c0-46d7-ad32-bd700bc646eb" name="Default Changelist" comment="" />
+      <created>1623992495416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623992495416</updated>
+      <workItem from="1623992496524" duration="4333000" />
+      <workItem from="1624000192061" duration="4975000" />
+      <workItem from="1624005419384" duration="45000" />
+      <workItem from="1624005480208" duration="12486000" />
+      <workItem from="1624081335554" duration="24969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1624360734269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1624360734269" />
+    <state width="1871" height="330" key="GridCell.Tab.0.bottom" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.0.center" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.0.left" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.0.right" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.1.bottom" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.1.center" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.1.left" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.1.right" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.2.bottom" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.2.center" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.2.left" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+    <state width="1871" height="330" key="GridCell.Tab.2.right" timestamp="1624361692493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="330" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624361692493" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/js_sapper$index_html__1_.dat" NAME="index.html (1) Coverage Results" MODIFIED="1624103841769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+.field {
+    display: inline-flex;
+    flex-wrap: wrap;
+    border: 5px solid cadetblue;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    background: #ffffff;
+    border: 2px solid #c3bbbb;
+}
+
+.cell:hover {
+    background: #e2dcdc;
+    cursor: pointer;
+}
+
+.bomb_img {
+    background-image: url("bomb.png");
+    background-size: 30px 30px;
+    background-color: #e2e6ff;
+}
+
+.checkbox_img {
+    background-image: url("checkbox.png");
+    background-size: 35px 30px;
+    background-color: #e2e6ff;
+}
