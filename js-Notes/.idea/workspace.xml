@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a029a0a6-f1ac-4897-b301-c0a79abd4b5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/draw-UI.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1uRDYThG6FFoR4vYif6sIplTOj7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test-js/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Radency_homework_#1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="draw-UI.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/draw-UI.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.draw-UI.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a029a0a6-f1ac-4897-b301-c0a79abd4b5e" name="Default Changelist" comment="" />
+      <created>1624619556945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624619556945</updated>
+      <workItem from="1624619558474" duration="911000" />
+      <workItem from="1624945080270" duration="5337000" />
+      <workItem from="1624950839772" duration="13752000" />
+      <workItem from="1624965365794" duration="63350000" />
+      <workItem from="1625149604000" duration="14771000" />
+      <workItem from="1625459513870" duration="25840000" />
+      <workItem from="1625506073292" duration="630000" />
+      <workItem from="1625506786437" duration="63000" />
+      <workItem from="1625506861506" duration="7000" />
+      <workItem from="1625555857887" duration="1063000" />
+      <workItem from="1625567532270" duration="5897000" />
+      <workItem from="1626065898151" duration="14196000" />
+      <workItem from="1626323240530" duration="521000" />
+      <workItem from="1626327127293" duration="7454000" />
+      <workItem from="1626354880700" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="102" y="188" key="#Inspections" timestamp="1625236713951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="102" y="188" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1625236713951" />
+    <state x="410" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625221291404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625221291404" />
+    <state width="1871" height="258" key="GridCell.Tab.0.bottom" timestamp="1625221294710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625221294710" />
+    <state width="1871" height="258" key="GridCell.Tab.0.center" timestamp="1625221294709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625221294709" />
+    <state width="1871" height="258" key="GridCell.Tab.0.left" timestamp="1625221294709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625221294709" />
+    <state width="1871" height="258" key="GridCell.Tab.0.right" timestamp="1625221294710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625221294710" />
+    <state width="1871" height="322" key="GridCell.Tab.1.bottom" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1871" height="322" key="GridCell.Tab.1.center" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1871" height="322" key="GridCell.Tab.1.left" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1871" height="322" key="GridCell.Tab.1.right" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1871" height="322" key="GridCell.Tab.2.bottom" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1871" height="322" key="GridCell.Tab.2.center" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1871" height="322" key="GridCell.Tab.2.left" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1871" height="322" key="GridCell.Tab.2.right" timestamp="1625218651367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="322" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625218651367" />
+    <state width="1190" height="322" key="GridCell.Tab.3.bottom" timestamp="1624950784213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1190" height="322" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624950784213" />
+    <state width="1190" height="322" key="GridCell.Tab.3.center" timestamp="1624950784213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1190" height="322" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624950784213" />
+    <state width="1190" height="322" key="GridCell.Tab.3.left" timestamp="1624950784213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1190" height="322" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624950784213" />
+    <state width="1190" height="322" key="GridCell.Tab.3.right" timestamp="1624950784213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1190" height="322" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624950784213" />
+    <state x="0" y="168" key="SettingsEditor" timestamp="1625236922334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625236922334" />
+    <state x="200" y="239" key="run.anything.popup" timestamp="1624951152170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="200" y="239" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624951152170" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1626066413164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626066413164" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Radency_homework__1$index_html__1_.dat" NAME="index.html (1) Coverage Results" MODIFIED="1624951782996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
